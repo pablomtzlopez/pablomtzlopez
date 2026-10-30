@@ -2,7 +2,7 @@
 
 **Gameplay Programmer · Unreal Engine 5 · C++**
 
-Final-year student of the Game Design & Development degree, focused on gameplay systems in Unreal Engine 5 with C++. Background in game design, so I care about how a mechanic *feels*, not just whether it works. Currently part of a two-person indie studio, where I own all the C++ side.
+Final-year student of the Game Design & Development degree, focused on gameplay systems in Unreal Engine 5 with C++. Background in game design, so I care about how a mechanic *feels*, not just whether it works.
 
 Looking for a **Gameplay Programmer** role.
 
