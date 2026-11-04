@@ -22,7 +22,6 @@ Looking for a **Gameplay Programmer** role.
 | Project | Engine | What I did |
 |---|---|---|
 | **Action Roguelike** | UE5 · C++ | Action system component, AI with custom BT tasks/services/decorators and EQS, interaction interface, projectile hierarchy (magic, black hole, teleport), pickups |
-| **Survival horror prototype** | UE5 · C++ | Light-dependent interaction: objects can only be used, inspected or picked up under strong light. Upper-body flashlight animation layered over locomotion, following camera pitch/yaw |
 | [**Blood Runner**](https://github.com/pablomtzlopez/BloodRunner) | Godot 4 | Team of 6 (university). Programming and game design: player state machine, component-based combat (health/hitbox), enemy AI (patrols, turrets) |
 | **Hell's Gamble** | Godot 4 | Wave-based 2D action game: weapon system (melee/ranged), data-driven stats and upgrades, enemy spawner, save system |
 | **Ourojam** | Godot 4 | 2D puzzle game with limited moves per level, level progression and save system |
